@@ -1,1 +1,1 @@
-# landing-page
+# Games api landing page
