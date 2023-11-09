@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-page -d src"
   },
   "keywords": [],
   "author": "",
@@ -13,5 +13,8 @@
     "flowbite": "^2.0.0",
     "node-fetch": "^3.3.2"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
 }
