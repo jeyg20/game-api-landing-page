@@ -1,6 +1,6 @@
 Games API Landing Page
 ======================
-This is an interactive and dynamic online platform that provides users with a rich and engaging experience in the world of video games. Through the seamless integration of the RAWG Video Games Database API, I have created a gaming hub that offers a wide range of features and information for gamers and enthusiasts.
+This is an interactive and dynamic online platform that provides users with a rich and engaging experience in the world of video games. Through the seamless integration of the RAWG Video Games Database API, I have created a gaming hub that offers a wide range of games and information for gamers and enthusiasts.
 
 Key Features
 ------------
